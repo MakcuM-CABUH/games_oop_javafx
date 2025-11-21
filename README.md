@@ -2,8 +2,8 @@
 
 ## О проекте
 
-![CI GitHubAction](https://github.com/peterarsentev/job4j_tracker/actions/workflows/maven.yml/badge.svg)
-                   https://github.com/MakcuM-CABUH/games_oop_javafx/
+![CI GitHubAction](https://github.com/MakcuM-CABUH/games_oop_javafx/blob/main/.github/workflows/maven.yml)
+
 Проект шахматы - консольное приложение. Пользователю предлагается подвигать шахматные фигуры по доске.
 
 Программа может:
